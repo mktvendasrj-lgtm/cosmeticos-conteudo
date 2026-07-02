@@ -45,6 +45,12 @@
       "imagem": "imagens/eudora/siage.jpg",
       "descricao": "Linha profissional.",
       "destaque": false
+    },
+
+      "contatos": {
+      "whatsapp": "5521999999999",
+      "instagram": "https://instagram.com/seuinstagram",
+      "email": "mailto:email@exemplo.com"
     }
 
   ]
