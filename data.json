@@ -1,0 +1,27 @@
+{
+    "empresa": {
+        "nome": "Beleza & Cia",
+        "slogan": "Consultora O Boticário e Eudora",
+        "whatsapp": "5521999999999",
+        "instagram": "https://instagram.com/seuinstagram"
+    },
+    "hero": {
+        "titulo": "Os melhores cosméticos para você",
+        "texto": "Perfumes, maquiagem, cuidados pessoais e muito mais.",
+        "imagem": "https://via.placeholder.com/600x400"
+    },
+    "produtos": [
+        {
+            "nome": "Lily",
+            "marca": "O Boticário",
+            "preco": "R$ 199,90",
+            "imagem": "https://via.placeholder.com/300"
+        },
+        {
+            "nome": "Siàge",
+            "marca": "Eudora",
+            "preco": "R$ 49,90",
+            "imagem": "https://via.placeholder.com/300"
+        }
+    ]
+}
