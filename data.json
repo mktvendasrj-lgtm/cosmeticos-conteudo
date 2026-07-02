@@ -1,19 +1,51 @@
 {
   "empresa": {
-    "nome": "Léo Cosméticos",
-    "slogan": "Revendedora O Boticário e Eudora",
-    "instagram": "https://instagram.com/...",
-    "whatsapp": "5521999999999",
-    "heroImagem": "https://..."
+    "nome": "Catálogo de Cosméticos",
+    "slogan": "Produtos Originais • O Boticário e Eudora",
+    "logo": "imagens/logo/logo.png"
   },
 
+  "hero": {
+    "titulo": "Encontre seu perfume favorito",
+    "texto": "Catálogo atualizado com perfumes, maquiagem e cuidados pessoais.",
+    "banner": "imagens/banners/banner.jpg",
+    "botao": "Falar no WhatsApp"
+  },
+
+  "redes": {
+    "whatsapp": "5521999999999",
+    "instagram": "https://instagram.com/seuinstagram"
+  },
+
+  "categorias": [
+    "Todos",
+    "O Boticário",
+    "Eudora"
+  ],
+
   "produtos": [
+
     {
+      "id": 1,
       "nome": "Lily Eau de Parfum",
       "marca": "O Boticário",
+      "categoria": "Perfume",
       "preco": 199.90,
-      "imagem": "https://...",
+      "imagem": "imagens/boticario/lily.jpg",
+      "descricao": "Perfume floral feminino.",
       "destaque": true
+    },
+
+    {
+      "id": 2,
+      "nome": "Siàge Shampoo",
+      "marca": "Eudora",
+      "categoria": "Cabelos",
+      "preco": 49.90,
+      "imagem": "imagens/eudora/siage.jpg",
+      "descricao": "Linha profissional.",
+      "destaque": false
     }
+
   ]
 }
