@@ -17,6 +17,20 @@
     "instagram": "https://www.instagram.com/eliane.pereirads/",
     "email": "mailto:200249edsl@gmail.com"
   },
+  "marcas": [
+  {
+    "nome": "O Boticário",
+    "logo": "imagens/logos/boticario.png",
+    "cor": "#2E8B57",
+    "fundo": "#E8F7EA"
+  },
+  {
+    "nome": "Eudora",
+    "logo": "imagens/logos/eudora.png",
+    "cor": "#7C5CFF",
+    "fundo": "#F2ECFF"
+  }
+],
 
   "categorias": [
     "Todos",
