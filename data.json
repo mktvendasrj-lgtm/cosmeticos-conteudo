@@ -61,7 +61,17 @@
       "marca": "Eudora",
       "categoria": "Cabelos",
       "preco": 49.90,
-      "imagem": "imagens/eudora/siage.jpg",
+      "imagem": "imagens/boticario/lily.jpg",
+      "descricao": "Linha profissional.",
+      "destaque": false
+    },
+    {
+      "id": 5,
+      "nome": "Siàge Shampoo",
+      "marca": "Eudora",
+      "categoria": "Cabelos",
+      "preco": 49.90,
+      "imagem": "imagens/boticario/lily.jpg",
       "descricao": "Linha profissional.",
       "destaque": false
     }
