@@ -20,13 +20,13 @@
   "marcas": [
   {
     "nome": "O Boticário",
-    "logo": "imagens/logo/boticario.png",
+    "logo": "imagens/logo/boticario.jpg",
     "cor": "#2E8B57",
     "fundo": "#E8F7EA"
   },
   {
     "nome": "Eudora",
-    "logo": "imagens/logo/eudora.png",
+    "logo": "imagens/logo/eudora.jpg",
     "cor": "#7C5CFF",
     "fundo": "#F2ECFF"
   }
