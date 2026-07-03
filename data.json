@@ -35,6 +35,16 @@
       "descricao": "Perfume floral feminino.",
       "destaque": true
     },
+     {
+      "id": 1,
+      "nome": "Lily Eau de Parfum",
+      "marca": "O Boticário",
+      "categoria": "Perfume",
+      "preco": 199.90,
+      "imagem": "imagens/boticario/lily.jpg",
+      "descricao": "Perfume floral feminino.",
+      "destaque": true
+    },
     {
       "id": 2,
       "nome": "Siàge Shampoo",
