@@ -29,13 +29,20 @@
     "logo": "imagens/logo/eudora.jpg",
     "cor": "#7C5CFF",
     "fundo": "#F2ECFF"
-  }
+  },
+  {
+    "nome": "Quem Disse Berenice",
+    "logo": "imagens/logo/qdb.png",
+    "cor": "#7C5CFF",
+    "fundo": "#F2ECFF"
+  }  
 ],
 
   "categorias": [
     "Todos",
     "O Boticário",
-    "Eudora"
+    "Eudora",
+    "Quem Disse Berenice"
   ],
 
   "produtos": [
