@@ -31,13 +31,13 @@
     "fundo": "#F2ECFF"
   },
     {
-    "nome": "O.U.I",
+    "nome": "oui",
     "logo": "imagens/logo/oui.png",
     "cor": "#D4AF37",
     "fundo": "#1F1F1F"
   },
   {
-    "nome": "Quem Disse Berenice",
+    "nome": "qdb",
     "logo": "imagens/logo/qdb.png",
     "cor": "#FFFFFF",
     "fundo": "#7B2CBF"
@@ -85,6 +85,26 @@
       "id": 2,
       "nome": "Siàge Shampoo",
       "marca": "Eudora",
+      "categoria": "Cabelos",
+      "preco": 49.90,
+      "imagem": "imagens/boticario/lily.jpg",
+      "descricao": "Linha profissional.",
+      "destaque": false
+    },
+     {
+      "id": 6,
+      "nome": "Perfume",
+      "marca": "qdb",
+      "categoria": "Cabelos",
+      "preco": 49.90,
+      "imagem": "imagens/boticario/lily.jpg",
+      "descricao": "Linha profissional.",
+      "destaque": false
+    },
+    {
+      "id": 7,
+      "nome": "Perfume",
+      "marca": "oui",
       "categoria": "Cabelos",
       "preco": 49.90,
       "imagem": "imagens/boticario/lily.jpg",
