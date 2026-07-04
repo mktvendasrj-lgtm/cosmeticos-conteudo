@@ -30,21 +30,26 @@
     "cor": "#7C5CFF",
     "fundo": "#F2ECFF"
   },
+    {
+    "nome": "O.U.I",
+    "logo": "imagens/logo/oui.png",
+    "cor": "#D4AF37",
+    "fundo": "#1F1F1F"
+  },
   {
     "nome": "Quem Disse Berenice",
     "logo": "imagens/logo/qdb.png",
-    "cor": "#7C5CFF",
-    "fundo": "#F2ECFF"
+    "cor": "#FFFFFF",
+    "fundo": "#7B2CBF"
   }  
 ],
-
   "categorias": [
     "Todos",
     "O Boticário",
     "Eudora",
-    "Quem Disse Berenice"
+    "Quem Disse Berenice",
+    "O.U.I"
   ],
-
   "produtos": [
     {
       "id": 1,
